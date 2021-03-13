@@ -1,7 +1,8 @@
-package com.hendrick.framework.mvvm
+package com.hendrick.framework.mvvm.ui.main.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hendrick.framework.mvvm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
